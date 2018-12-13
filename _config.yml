@@ -1,6 +1,11 @@
-title_primary: "活版印字" # the bigger text
-title_secondary: "Typography" # the smaller text
+title_primary: "A Mostly Functional Blog" # the bigger text
+title_secondary: "Callum G" # the smaller text
 keywords:
+  - programming
+  - C#
+  - F#
+  - dotnet
+  - development
 
 twitter: #username
 rss: atom.xml
