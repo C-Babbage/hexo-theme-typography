@@ -1,5 +1,5 @@
 title_primary: "A Mostly Functional Blog" # the bigger text
-title_secondary: "Callum G" # the smaller text
+title_secondary: "Not Quite Pure:" # the smaller text
 keywords:
   - programming
   - C#
@@ -11,7 +11,7 @@ twitter: #username
 rss: atom.xml
 weibo: #username/id
 instagram: #username
-github: #username
+github: C-Babbage
 
 # Choose the comment service according to your need.
 # Please do not use the two services at the same time.
