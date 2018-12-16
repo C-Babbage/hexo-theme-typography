@@ -18,7 +18,7 @@ dove: # For fun ONLY. Set to true to 'disable' comments on your site.
 
 # Set true to show the page indicator.
 showPageCount: true
-truncate_len: 1000
+truncate_len: 500
 
 # Set true to show category or tags behind post titles
 showCategories: true
