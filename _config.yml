@@ -13,7 +13,7 @@ github: C-Babbage
 # Choose the comment service according to your need.
 # Please do not use the two services at the same time.
 livere: # [data-uid] on livere.com
-disqus: # [short_name] on disqus.com
+disqus: notquitepure-info
 dove: # For fun ONLY. Set to true to 'disable' comments on your site.
 
 # Set true to show the page indicator.
